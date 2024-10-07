@@ -1,0 +1,4 @@
+*.zip
+cert_tmp/
+*.crt
+*.ca-bundle
