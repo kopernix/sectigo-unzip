@@ -69,6 +69,25 @@ You can also use the provided installation script:
 ```
 Follow the prompts to choose the installation location.
 
+## Download and Installation from GitHub
+
+To download the script from GitHub and install it:
+
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:kopernix/sectigo-unzip.git
+   ```
+
+2. Change to the cloned directory:
+   ```bash
+   cd sectigo-unzip
+   ```
+
+3. Run the installation script:
+   ```bash
+   ./install_sectigo_unzip.sh
+   ```
+
 ## Uninstallation
 
 To uninstall the script, simply remove it from the installation directory:
@@ -90,6 +109,4 @@ To uninstall the script, simply remove it from the installation directory:
 
 ## License
 
-MIT License. See the [license information](LICENSE) for details. 
- 
- 
+MIT License. See the [license information](LICENSE) for details.
